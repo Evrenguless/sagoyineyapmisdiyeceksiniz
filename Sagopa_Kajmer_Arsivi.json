@@ -1,0 +1,5583 @@
+{
+  "as_of": "2026-10-05",
+  "scope": "Tamlık durumu: geniş kapsamlı çalışma listesi. Eski internet kayıtları için eksiksiz ve kesin diskografi iddiası yoktur. Belirsizlikler ve kalan boşluklar açıkça belirtilmiştir.",
+  "counts": {
+    "groups": 102,
+    "dated_rows": 673,
+    "undated_candidates": 39,
+    "total_checklist_rows": 712
+  },
+  "count_note": "102 yayın / araştırma grubu; 673 yıla yerleştirilmiş parça veya sürüm satırı ve 39 yayın yılı doğrulanacak aday. Toplam 712 kontrol satırı, 712 farklı şarkı demek değildir. Derleme tekrarları, skitler, remixler, enstrümantaller, mix bölümleri ve bazı başka sanatçı kayıtları da vardır.",
+  "gaps": [
+    {
+      "title": "Melankolia Mixtape Vol.1 (2006)",
+      "note": "Eski listelerde adı var; güvenilir tam bölüm sırası bulunamadı. Kuvvetmira Mixtape veya Mega Mixtape ile aynı yayın sayılmadı.",
+      "source": "https://sagopadiskografi.tr.gg/Diskografi.htm"
+    },
+    {
+      "title": "Sanal Albüm ve başka promo/radyo mixleri",
+      "note": "Özgün dağıtım kimliği ve kapsamı kesinleşmedi. Tüm konser videolarını kapsayan canlı performans kataloğu da oluşturulmadı.",
+      "source": "https://eksisozluk.com/sagopa-kajmer--160402?p=11"
+    },
+    {
+      "title": "Kafile başlık parçası; Kafile 2 / Yeraltı Kafilesi",
+      "note": "Karma albümlerde vokal kredisi ile prodüktörlük ayrımı gerekli. Kafile 2’deki diğer sanatçı kayıtları Sagopa solo parçaları diye eklenmedi; prodüksiyon arşivi için ayrıca incelenmeli.",
+      "source": "https://kuvvetmira.com/albums"
+    },
+    {
+      "title": "İlk EP’ler, kasetler ve gizli kayıtlar",
+      "note": "EP 1’in yılı/parça sayısı, EP 2–3 bölüm sırası, Gerilim 99’un adsız scratch bölümleri ve Bir Pesimistin Gözyaşları’ndaki uzun parçaların içindeki gizli kayıt sınırları özgün ses/kapakla karşılaştırılmalı.",
+      "source": "https://musicbrainz.org/release/70ab0823-206e-43d3-83fb-6300f3bd2293"
+    },
+    {
+      "title": "Diğer takma adlar ve prodüksiyonlar",
+      "note": "DJ Rawkid, Lullaby Fly ve başkalarına yapılan bütün beatleri kapsayan Yunus Özyavuz prodüksiyon kataloğu bu çalışmanın dışında.",
+      "source": "https://kuvvetmira.com/albums"
+    }
+  ],
+  "releases": [
+    {
+      "year": 1999,
+      "title": "Yeraltı Operasyonu — Silahsız Kuvvet kayıtları",
+      "type": "Karma albüm seçkisi",
+      "artist": "Silahsız Kuvvet",
+      "url": "https://open.spotify.com/embed?theme=black&uri=spotify%3Aalbum%3A1Dj7r6MdDsS8aG1TIrdfJU",
+      "note": "Albümdeki sıra: 3, 5, 7, 10, 15. Lanet Şehir İstanbul'un dijital ana kredisi Statik; eski fiziksel arşivlerde Silahsız Kuvvet düeti olarak gösteriliyor. 2022 dijital yayını ilk albüm yılı değildir.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Kuytu Köşeler (feat. Statik)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Sözlerim Silahım",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Lanet Şehir İstanbul (Statik feat. Silahsız Kuvvet)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Boom Boom",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Bang",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-001"
+    },
+    {
+      "year": 1999,
+      "title": "Gerilim 99 Promo",
+      "type": "Promo kaydı",
+      "artist": "Silahsız Kuvvet",
+      "url": "https://eksisozluk.com/sagopa-kajmer--160402?p=11",
+      "note": "A yüzünde 9 bölüm, B yüzünde bir şarkı ve topluca '8 scratch mix show' olarak anılan mixler. Mixlerin ayrı adları bulunamadı. Kaset dökümü resmî kapakla doğrulanmalı.",
+      "status": "Hayran kaset dökümü; özgün sürüm doğrulanacak",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Intro",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Gerilime Hoşgeldin",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Katil Senfoni",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Vahşet Kapında",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Atamazsın Bir Kenara",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Gerçekleri Gör",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Bomboş Her Şey",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Evlat",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Acımasız Yaşam",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 1,
+          "title": "Sana Bana Kalmaz Bu Dünya (feat. Masta Kara)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 2,
+          "title": "Scratch Mix Show (8 bölüm; alt başlıklar bilinmiyor)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-002"
+    },
+    {
+      "year": 2000,
+      "title": "Pesimist EP 1",
+      "type": "İnternet EP",
+      "artist": "Sagopa Kajmer",
+      "url": "https://forum.donanimhaber.com/sagopa-kajmer--28795570",
+      "note": "Hayran arşivindeki 12 parçalık liste. Başka kaynaklarda 11 veya 14 parça ve 1999/2000/2001 tarihleri bulunuyor. Yıl 2000 olarak geçici tutuldu; özgün dağıtım dosyası/kapağı ile doğrulama gerekiyor.",
+      "status": "Sürüm ve tarih uyuşmazlığı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Pesimistro",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Son Durak Uçurum",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Yeraltındaki Karanlık",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Terör Damlaları (feat. Ceza)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Anla Burası Dünya",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Siktirin Gidin",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Sanal Alem Delikanlıları (feat. Ceza)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Tek Yürek",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Siktirin Gidin (Remix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Pesimist Karamsar",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Tımarlı Hastane",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Ölüm Benim Doğum Günüm",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-003"
+    },
+    {
+      "year": 2000,
+      "title": "Toplama Kampı",
+      "type": "Ortak EP",
+      "artist": "Asya Sentez",
+      "url": "https://open.spotify.com/album/1EB9NWUJKBnXts6fuFjMXj",
+      "note": "6 parçalık dijital sıra. Kalbim Reosta'nın ana kredisi Ceza; EP bütünlüğü için tutuldu. Silahsız Kuvvet, Ceza ve bazı kayıtlarda Dumanyak/Dr. Fuchs.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Kalbim Reosta (Ceza)",
+          "credit": "Ceza — Sagopa vokali değil",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Karartma Geceleri",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Kuvvetsel Konum",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Rap Adına",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Televole",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Toplama Kampı (feat. Dr. Fuchs)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-004"
+    },
+    {
+      "year": 2001,
+      "title": "10 Kurşun",
+      "type": "İnternet albümü",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.webcanavari.net/ynt-sagopa-kajmer-cok-detayli-biyografi-t101866.0.html",
+      "note": "İlk yayın yılı için Kuvvetmira albüm tarihçesindeki 2001 esas alındı. Bazı hayran kaynakları 2002 yazıyor. İki Kurşun Marşı düeti ayrı kayıt.",
+      "status": "Eski arşiv kaynağı; tarih notlu",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Dilim Sert Rapim Mert",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Pesimist Stil",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Katliama Karşı Geldi İşkence",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Kendi Silahından Ona",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Rapim Kuduz",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Kurşun Marşı (feat. Ramiz)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Kurşun Marşı (feat. Ceza)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Üçlü Kombine (feat. Dumanyak & Cabbar)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Flow (feat. Duman)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Tek Yürek",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-005"
+    },
+    {
+      "year": 2001,
+      "title": "Sözlerim Silahım",
+      "type": "Albüm",
+      "artist": "Silahsız Kuvvet",
+      "url": "https://open.spotify.com/embed/album/4eLZ4QxEr7rAj90MOqA6Yu",
+      "note": "19 parça. İlk yayın için tarihçe 2001 diyor; platformlarda 2003 yeniden yayın tarihi görülebiliyor. Eski dökümlerde 17 parçalık sıra da var; burada bağlantıdaki 19 parçalık dijital sürüm korundu.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Kuvvet Senaryo (Intro Da Outro)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Kıyamet Alameti",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Katil Senfoni",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Gerçekleri Gör (Rotalarım Şaştı)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Acımasız Yaşam",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Kuytu Köşeler (2000 Remix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Durum Beter Artık Yeter",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Göze Göz Dişe Diş",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Bu Yaka",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Vahşet Kapında",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Pes Etmek Yok Teslim Olmak Yok",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "İnkar Boşuna (Yaşam Denen Komedi) (feat. Ceza)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Duman (Çek İçine)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Sözlerim Silahım (2000 Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Beyaz Ölüm (Kara Vatan) (feat. Jay One)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Doğ ve Yaşa",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Tek Başına Dimdirek Yaşa",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 18,
+          "title": "Olacak Dostum (Başaracaksın)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 19,
+          "title": "Kötülüğe Teslim Oluyor İnsan (feat. Cabbar & Misero)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-006"
+    },
+    {
+      "url": "https://musicbrainz.org/release/e008ab67-9104-46aa-a32d-6f1896a7fdf9",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Buz Dağları",
+          "credit": "Ceza — Sagopa vokali değil",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Eksik Eylüllerim",
+          "credit": "Kolera — Sagopa vokali değil",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Buralarda Ayaz Var (Silahsız Kuvvet)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Düşünen Ceset",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "İfrite Tamim",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "İntihar (Pesimist Ep)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Kan Mevsimi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Hoşçakal",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Benim İnim Hiphop",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "İlim Irfan Yurdu",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "İllet-i Nâme",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Çocuk muyum",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Rap Sticks",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Yamyam Organizmalar",
+          "archived": false
+        }
+      ],
+      "title": "One Second",
+      "year": 2002,
+      "type": "Kuvvetmira internet derlemesi",
+      "note": "2001 sonu–2002 başı güncellenen internet projesi. MusicBrainz'in 14 parçalık sürümü listelendi. Buz Dağları Ceza'ya, Eksik Eylüllerim Kolera'ya ait olarak kredilendirilmiş; tüm parçalar Sagopa solo değildir.",
+      "status": "Kaynaklı",
+      "artist": "Kuvvetmira",
+      "catalog_id": "release-007"
+    },
+    {
+      "year": 2002,
+      "title": "İhtiyar Heyeti",
+      "type": "Albüm",
+      "artist": "Silahsız Kuvvet",
+      "url": "https://musicbrainz.org/release/e6f4dd18-cd2f-4c5d-8d38-0a9c92654db1",
+      "note": "MusicBrainz 19 parça, bazı fiziksel CD kaynakları 18 parça gösteriyor. İllet-i Name baskı farkı olarak kontrol edilmeli.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Heyet Intro (Kuvvet Senaryo 2)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "2001 (feat. Ceza & Sahtiyan)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Ekinoks",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Buralarda Ayaz Var",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Günah Tohumları (Tabuları Yıkan Adam)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "1 DK (feat. Kuvvetmira Rap Stickz)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Cenneti Sordum Yitirdiklerime",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "İki Dinle Bir Sus",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Melodrama (feat. Sahtiyan)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Bir Savaş Bin Ölü",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Benim İnim Hiphop (feat. Mista Brown)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Rap Eyleme",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Güneşimden Çekil",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Ar Gelir Yakın",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Saltanatın Hakimleri (feat. Ceza)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Dünya Koca Mekan",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Terör Damlaları (2001 Version) (feat. Ceza)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 18,
+          "title": "Localistik Sömürü",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 19,
+          "title": "İllet-i Name (feat. Sahtiyan & Mista Brown)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-008"
+    },
+    {
+      "year": 2002,
+      "title": "Sagopa Kajmer",
+      "type": "Albüm",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.theaudiodb.com/album/2284666-Sagopa-Kajmer-Sagopa-Kajmer",
+      "note": "Sansürlü sürümler ile Pesimist EP 1'deki kayıtlar ayrı tutulmalı.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Düşünen Ceset",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Tımarlı Hastane (Mic-o-lodium 2002 Clean Mix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Son Durak Uçurum (Melodik Mix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Aruz Ölçüsü",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Tamu Otobüsü (Harmonik Clean Mix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Son Durak Uçurum (Clean Remix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Kanibal Aşiretler",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Rap Candarbazı",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Tamu Otobüsü (Original Clean Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Kan Mevsimi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "S.K.T.R.N.G.D.N.",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "İfrite Tamim",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Yeraltındaki Karanlık",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Rapim Kuduz",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Dilim Sert, Rapim Mert",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Katliama Karşı Geldi İşkence",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Ölüm Benim Doğum Günüm",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 18,
+          "title": "Vuslata 5 Kala Leş",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 19,
+          "title": "Tımarlı Hastane (Original Clean Edit)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-009"
+    },
+    {
+      "year": 2002,
+      "title": "Pesimist EP 2",
+      "type": "İnternet EP",
+      "artist": "Sagopa Kajmer",
+      "url": "https://kraltema.blogspot.com/2008/?m=0",
+      "note": "Bazı dağıtımlarda tek uzun ses dosyasıdır. Dört bölüm ayrı şarkı dosyası olarak dağıtılmış varsayılmadı.",
+      "status": "Eski arşiv kaynağı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Gemide (Intro)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "İskeletler Diyarında Bir Et Parçası",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Kamil (Skit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Kuduz Rap Mayın Tarlasında",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-010"
+    },
+    {
+      "year": 2002,
+      "title": "Tek Hayalim",
+      "type": "Konser efekti verilmiş internet kaydı",
+      "artist": "Sagopa Kajmer",
+      "url": "https://open.spotify.com/show/2uYavfwAkEIu8I1jtosEBB",
+      "note": "Hayran podcast açıklamasında 10 bölümlük eski kayıt olarak belirtiliyor. Podcast'in 2025 yükleme tarihi ilk yayın tarihi değildir. Bölüm sırası özgün dosyayla doğrulanmalıdır.",
+      "status": "Hayran arşivi; doğrulama gerekiyor",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Yeraltındaki Karanlık",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Düşünen Ceset",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Dilim Sert, Rapim Mert",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Tamu Otobüsü",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Localistik Sömürü (Sansürsüz)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "İskeletler Diyarında Bir Et Parçası (İlk Versiyon)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Kuduz Rap Mayın Tarlasında",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Ölüm Benim Doğum Günüm",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Terör Damlaları (İlk Versiyon)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Siktirin Gidin",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-011"
+    },
+    {
+      "year": 2003,
+      "title": "Köle Gibi",
+      "type": "İnternet ortak kayıt",
+      "artist": "Sagopa Kajmer, Dr. Fuchs & Mista Brown",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "15 Aralık 2003 olarak belirtiliyor; Ceza scratch kesitleri de var.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Köle Gibi",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-012"
+    },
+    {
+      "url": "https://musicbrainz.org/release/70ab0823-206e-43d3-83fb-6300f3bd2293",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "56 Denklemli Intro",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Analiz",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "İnsan ve İnanç (skit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Tanrı Çekti Tüm Resimleri",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Varoşlar Özgürlük Demek (skit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Karabiber Duası",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Karikatür Komedya",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Kendini Koru (skit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Kör Savaşçı",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Ölüm ve Yaşam (skit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Mütalam",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Sabredin Panik Yok (skit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Değişebilir Heran Adres",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Rap Yaparken Günaha mı Girdim?",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Neden Bu Kadar Çok İçiyorsun (skit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Maskeli Balo",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Umut (skit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 18,
+          "title": "Uğurla Bahtiyarları",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 19,
+          "title": "Minimalite",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 20,
+          "title": "İskeletler Diyarında Bir Et Parçası",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 21,
+          "title": "Haddimizi Aşmışsak (skit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 22,
+          "title": "Geçmişi Gölgeye Teslim Ettim",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 1,
+          "title": "Bir Pesimistin Gözyaşları",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 2,
+          "title": "Didaktik Kitaplar",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 3,
+          "title": "Manzumu Mazlum Dinledi",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 4,
+          "title": "Bağdat",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 5,
+          "title": "Üfle Güneşi Sönsün",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 6,
+          "title": "Rap Gafil",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 7,
+          "title": "Küheylan",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 8,
+          "title": "Stilo",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 9,
+          "title": "24",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 10,
+          "title": "Kalp Atışlarım 78 BPM",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 11,
+          "title": "Etki Tepki",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 12,
+          "title": "Kalbim Krizin Bekçisi Olmuş",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 13,
+          "title": "Proportions (Karabiber Duası 2)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 14,
+          "title": "Yokluk İçinde Varlık Çeksemde",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 15,
+          "title": "Etki Tepki (DJ Funky C Dark Room mix)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 16,
+          "title": "Sagoladım Beyinleri",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 17,
+          "title": "İyi Geceler - Outro",
+          "archived": false
+        }
+      ],
+      "title": "Bir Pesimistin Gözyaşları",
+      "year": 2004,
+      "type": "Albüm",
+      "note": "CD 1: Melankolik Damlalar (22); CD 2: Karanlık Damlalar (17). Uzun kapanış parçaları gizli kayıtlar içerir. 2003 kaydı/yılı bazı dijital kataloglarda görülür; burada 2004 CD yayını esas alındı.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-013"
+    },
+    {
+      "year": 2004,
+      "title": "G.O.R.A. — Sagopa kayıtları",
+      "type": "Film müziği seçkisi",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.imdb.com/title/tt0384116/soundtrack/",
+      "note": "Yalnız Sagopa kredili dört kayıt; film albümünün bütün parçaları ona ait değil. Albüm sıraları: 1, 29, 30, 31.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Al 1'de Burdan Yak",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 29,
+          "title": "Gora Drama Turnz",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 30,
+          "title": "İhtiva Reçetesi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 31,
+          "title": "Marifetname",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-014"
+    },
+    {
+      "year": 2004,
+      "title": "Rapstar — konuk kayıt",
+      "type": "Ceza albümünde düet",
+      "artist": "Ceza & Sagopa Kajmer",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "Ceza'nın Rapstar (2004) albümündeki ortak kayıt. Sagopa albümlerinde bulunmadığı için ayrıca eklendi.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Neyim Var Ki",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-015"
+    },
+    {
+      "year": 2004,
+      "title": "Huzur N Darem — Sagopa ortak kayıtları",
+      "type": "Konuk kayıt seçkisi",
+      "artist": "Dr. Fuchs / Sagopa Kajmer",
+      "url": "https://www.meleklermekani.com/threads/sagopa-kajmer-fan-club.45435/",
+      "note": "Albümdeki sıra 2, 9, 13. Remiks/yapım katkısı ile vokal katkısı ayrımı fiziksel kredilerden kontrol edilmeli.",
+      "status": "Eski arşiv kaynağı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Kara Maskeli İstanbul (feat. Sagopa Kajmer & Funky C)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Sokakların Melodisi (feat. Sagopa Kajmer & Mista Brown)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Minimalite (DJ Mic Check & Mista Brown Remix)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-016"
+    },
+    {
+      "year": 2004,
+      "title": "Kuvvetmira Mixtape Vol.1",
+      "type": "Mixtape / remix derlemesi",
+      "artist": "Kuvvetmira / DJ Mic Check",
+      "url": "https://eksisozluk.com/sagopa-kajmer--160402?p=11",
+      "note": "Karma sanatçı listesi; bütün kayıtlar Sagopa vokalli değildir. Özgün dosya veya kapakla karşılaştırılmalı.",
+      "status": "Hayran dökümü; doğrulanacak",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Mixtape Vol.1 (Kuvvetmira; Sahtiyan & Mista Brown)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Mira Kurşunları (Kuvvetmira; Sahtiyan & Mista Brown)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Arabesk (DJ Mic Check — Enstrümantalizm)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Mutiny (DJ Mic Check — Enstrümantalizm)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Scratch Show (DJ Mic Check)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Ol Skull B-Boyz (Duman-Yak — DJ Mic Check Battle Mix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Köle (İzel Remix / Mic Check Mickolodium Mix; Fuchs, Mista Brown & Alper Tunga)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Hey Bobby! (Sage Francis — DJ Mic Check Mickolodium Mix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Charles (Aruz Ölçüsü Dirty Version)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Demo Battle (DJ Mic Check — Enstrümantalizm)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Neyim Var Ki (No Ceza Mix)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-017"
+    },
+    {
+      "title": "Romantizma",
+      "url": "https://musicbrainz.org/release/fbde5b4e-8795-4224-afd0-79f8f433bc2a",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "İntromantizma",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Romantizma",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Bebeğim Öldü",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Vasiyet",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "İlgisizlik Hastalığı (skit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Leyli",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Rak Benadam (Only Human)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Her Hayat 1 Sorudur (skit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Baatıl Rhyme",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Sagopa Yaşlı Planet",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "We Got Rhymes",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Drama Yolları",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Kendime Sarılır Donarım",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "HipHop Saçmalığı",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Sagopa vs. Kolera",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Terapi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Kopya Kalpler",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 18,
+          "title": "Anektod",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 19,
+          "title": "Hayat Arabamla 2005 Mil",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 20,
+          "title": "Rüyalarımdaki İşaretler",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 21,
+          "title": "Çaçaron",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 22,
+          "title": "Pavlov'un Köpeği",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 23,
+          "title": "Bana Müsade Beyler",
+          "archived": false
+        }
+      ],
+      "year": 2005,
+      "type": "Albüm",
+      "note": "2015 Re-Mastered yeniden yayını aynı 23 parçayı içerir; farklı mastering ayrı dosya/sürüm olarak tutulabilir.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-018"
+    },
+    {
+      "year": 2005,
+      "title": "Pesimist EP 3",
+      "type": "İnternet EP",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.extraloob.com/threads/sagopa-kajmer-pesimist-ep-3-album-266604",
+      "note": "Interlude bazı yüklemelerde Omon Gomera adıyla geçiyor. Kaynaklar bölüm sırasını farklı gösteriyor.",
+      "status": "Eski arşiv kaynağı; sıra kontrol edilmeli",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Terapi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Süper Sperm (feat. Kolera)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Interlude (Skit / Scratchz)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Baseline (Outro)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-019"
+    },
+    {
+      "year": 2005,
+      "title": "Disstortion",
+      "type": "Ortak EP",
+      "artist": "Kuvvetmira",
+      "url": "https://turkpopmuzik.net/sanatci-sagopa_kajmer-508",
+      "note": "Ortak çalışma; bütün kayıtlar Sagopa solo değildir.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Çilek Intro",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Kır Kalbini Ver Elime",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Duygu Sömürgesi (Sagopa Kajmer & Kolera)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Toplamam Yerde Kalır Kırıntın (Kuvvetmira Rap Stickz)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Bling Blingterlude",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Antrakta Paydos (Kuvvetmira Rap Stickz)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-020"
+    },
+    {
+      "year": 2005,
+      "title": "Karantina Embryo — Sagopa düetleri",
+      "type": "Kolera albümünde konuk kayıt",
+      "artist": "Kolera & Sagopa Kajmer",
+      "url": "https://www.meleklermekani.com/threads/sagopa-kajmer-fan-club.45435/",
+      "note": "Albümdeki sıra 10, 14.",
+      "status": "Eski arşiv kaynağı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Aklımın Odaları",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Günlerim Ağlak (Dişi Kişilik)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-021"
+    },
+    {
+      "year": 2005,
+      "title": "Karamsar Naralar — konuk kayıt",
+      "type": "Derin Darbe albümünde düet",
+      "artist": "Derin Darbe & Sagopa Kajmer",
+      "url": "https://kuvvetmira.com/albums",
+      "note": "Başlık bazı hayran listelerinde HipHop Alemi olarak yazılıyor.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "HipHop Alemim",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-022"
+    },
+    {
+      "url": "https://musicbrainz.org/release/e79de67d-6e64-4c4a-a7e9-ac2f39a2ce02",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Gönüldendir Şikayet (intro)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Şikayetname",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Kürdan Kollar",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Dil Yaratmakta En Asil Silahları",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Cümle Mühendisi (Ben Sen O Biz Siz Onlar)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Foseptik (intro)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Trakonya",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "The Way You Gotta Be (Kafile outtake - Evren)",
+          "credit": "Ewren / Evren — Sagopa vokali değil",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Conlicx of Interest (Kafile outtake - Evren)",
+          "credit": "Ewren / Evren — Sagopa vokali değil",
+          "archived": false
+        }
+      ],
+      "title": "Pesimist EP 4 — Kurşun Asker",
+      "year": 2006,
+      "type": "EP",
+      "note": "8 ve 9. parçalar Ewren/Evren'e aittir. EP bütünlüğü için listede tutuldu; Sagopa vokalli parça diye sayılmamalıdır.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-023"
+    },
+    {
+      "year": 2006,
+      "title": "Kafile — Sagopa'nın yer aldığı kayıtlar",
+      "type": "Karma albüm seçkisi",
+      "artist": "Kuvvetmira",
+      "url": "https://musicbrainz.org/release/5796a29c-dcc8-4e1b-89c5-966f90715887",
+      "note": "Albümdeki sıra: 1, 5, 12. Diğer sanatçılara ait kayıtlar Sagopa solo şarkı olarak eklenmedi. Ortak Kafile başlık parçasında bireysel vokal kredisi ayrıca kontrol edilmeli.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Baytar",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Sansür Perdesi (Sagopa Kajmer, Sitem Depresif & Mozole Mirach)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "İstisnalar Kaideyi Bozmaz",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-024"
+    },
+    {
+      "year": 2006,
+      "title": "You Never Know",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://en.wikipedia.org/wiki/Sagopa_Kajmer",
+      "note": "Eski internet tekli; özgün dosya doğrulanmalı.",
+      "status": "İlk yayın tarihi doğrulanacak",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "You Never Know",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-025"
+    },
+    {
+      "year": 2006,
+      "title": "Soğuk Küvet",
+      "type": "İnternet ortak kayıt",
+      "artist": "Sagopa Kajmer, Kolera & Mista Brown",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "4 Nisan 2006. Kafile'ye alınmayan kayıt.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Soğuk Küvet",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-026"
+    },
+    {
+      "url": "https://musicbrainz.org/release/4b47ee2d-f2cc-49c4-be24-0228ac8cae14",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Intro",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Ne Bilirsin?",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Monotonluk Maratonu",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Bir Var... Bir Yok...",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Şampiyonu Sıkar Yarış",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Gam Tozu ve Dünyanın Ninnisi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Bağlı Hayatım Pamuk İpliğine",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "A'dan Z'ye Hiphop Argosu (skit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Süper İkili",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Kendim İçin",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Af Benim İşim Değil",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Kolaysa Anlat",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Fani",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Biraz Gülümsemeye Ne Dersin?",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Emcee Testi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Şahit Varsa Konuşsun",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Yarım Gönülle 1 Öpüş",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 18,
+          "title": "Can Havli",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 19,
+          "title": "Malum Tahrip İzleri",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 20,
+          "title": "Herkesin Bir Suçu Var",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 21,
+          "title": "Outro",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 1,
+          "title": "Intro (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 2,
+          "title": "Ne Bilirsin? (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 3,
+          "title": "Monotonluk Maratonu (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 4,
+          "title": "Bir Var... Bir Yok... (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 5,
+          "title": "Şampiyonu Sıkar Yarış (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 6,
+          "title": "Gam Tozu ve Dünyanın Ninnisi (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 7,
+          "title": "Bağlı Hayatım Pamuk İpliğine (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 8,
+          "title": "Süper İkili (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 9,
+          "title": "Kendim İçin (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 10,
+          "title": "Af Benim İşim Değil (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 11,
+          "title": "Kolaysa Anlat (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 12,
+          "title": "Fani (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 13,
+          "title": "Emcee Testi (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 14,
+          "title": "Şahit Varsa Konuşsun (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 15,
+          "title": "Yarım Gönülle 1 Öpüş (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 16,
+          "title": "Can Havli (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 17,
+          "title": "Malum Tahrip İzleri (Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 2,
+          "n": 18,
+          "title": "Herkesin Bir Suçu Var (Enstrümantal)",
+          "archived": false
+        }
+      ],
+      "title": "İkimizi Anlatan Bir Şey",
+      "year": 2007,
+      "type": "Ortak albüm",
+      "note": "Sagopa Kajmer & Kolera. CD 1: vokalli 21 parça; CD 2: enstrümantal 18 parça. Baskıya göre parça sayısı değişebiliyor.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer & Kolera",
+      "catalog_id": "release-027"
+    },
+    {
+      "year": 2007,
+      "title": "Kırık Çocuk",
+      "type": "İnternet maxi single",
+      "artist": "Sagopa Kajmer",
+      "url": "https://eksisozluk.com/sagopa-kajmer--160402?p=11",
+      "note": "Altı sürümlük internet paketinin dökümü. Sonraki platform tekli yayını yalnız ana parçayı içerebilir.",
+      "status": "Hayran sürüm dökümü; doğrulanacak",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Kırık Çocuk (Orijinal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Kırık Çocuk (80's Skull Mix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Kırık Çocuk (Mickolodium Mix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Kırık Çocuk (Orijinal — Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Kırık Çocuk (80's Skull Mix — Enstrümantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Kırık Çocuk (Mickolodium Mix — Enstrümantal)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-028"
+    },
+    {
+      "year": 2007,
+      "title": "Ahenk — konuk kayıt",
+      "type": "Abluka Alarm albümünde düet",
+      "artist": "Abluka Alarm & Sagopa Kajmer",
+      "url": "https://www.meleklermekani.com/threads/sagopa-kajmer-fan-club.45435/",
+      "note": "Albümdeki sıra 2.",
+      "status": "Eski arşiv kaynağı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Tövbelerim Hasarlı",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-029"
+    },
+    {
+      "year": 2007,
+      "title": "Kuvvetmira Mega Mixtape",
+      "type": "Radyo mix / yeniden miks",
+      "artist": "Kuvvetmira / DJ Mic Check",
+      "url": "https://www.youtube.com/watch?v=tPMNi_gwnaY",
+      "note": "2007 albüm kutlaması radyo yayınına atfedilen mix. Başka sanatçıları da içerir; bilinen şarkıların farklı altyapılı bölümleri yeni beste olarak sayılmamalı.",
+      "status": "Hayran bölüm dökümü; doğrulanacak",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Evvela Elveda (Raffine)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Ben Bir İnsanım (Abluka Alarm / Savaş)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Kafile (Kolera, Zet & Raffine)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Virane Dervişler (Abluka Alarm)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Yaşananlar Var (Raffine)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Sevemedim Vedaları (Kolera)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Kopya Kalpler (Sagopa Kajmer)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Baytar (Sagopa Kajmer)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Diyet (Zet)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Scratch Interlude (DJ Mic Check)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Batıl Rhyme (Sagopa Kajmer)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Pavlov'un Köpeği (Sagopa Kajmer)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Hayat Arabamla 2005 Mil (Sagopa Kajmer)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Scratch Interlude II (DJ Mic Check)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Bebeğim Öldü (Sagopa Kajmer)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Rüyalarımdaki İşaretler (Sagopa Kajmer & Laedri)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Anektod (Sagopa Kajmer)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 18,
+          "title": "Vasiyet (Sagopa Kajmer)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 19,
+          "title": "Çaçaron (Sagopa Kajmer)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-030"
+    },
+    {
+      "year": 2007,
+      "title": "Compilation Vol.1",
+      "type": "Eski internet derlemesi",
+      "artist": "Sagopa Kajmer / konuk sanatçılar",
+      "url": "https://raphiphopgirls.wordpress.com/2008/06/11/sagopa-kajmer-compilation-vol/",
+      "note": "Yıl biyografi listelerinden; 2008 tarihli hayran dökümü 17 dosya gösterir. Resmî yayın niteliği ve ilk tarih kesinleşmedi. Eski şarkılar tekrar eder.",
+      "status": "Hayran derlemesi; ilk tarih doğrulanacak",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Pilimiz Bitmez (Dumanyak)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Durma Hadi Sek Goo (IQ)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Karanlık Manzaralar (Kuvvetmira)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Tek Kanatlı Kuş (MT)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "vs. Kemal Sunal",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Ölüm Benim Doğum Günüm (Sansürsüz)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Siktirin Gidin (Sansürsüz)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Uğurla Bahtiyarları (Meets Jazz Project Downbeat Mix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Kurşun Marşı (Ceza)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Rüyalar (Ceza & Dumanyak)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Boom / Darbe (Derin Darbe)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Yağmur (Domination)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Flow (Duman)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Nedense (Fuchs)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Kürdan Kollar (Mozole Mirach)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Gerçek (DJ Mic Check & Sirhot)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "İlim İrfan Yurdu (Sahtiyan)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-031"
+    },
+    {
+      "url": "https://musicbrainz.org/release/501a8f25-3744-3076-b980-7b354886127c",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "İntro",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Ben Hüsrana Komşuyum",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Bir Kulaç Daha Atsam Karadayım",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Düşersem Yanarım",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "İki Tanık",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Gölge Haramileri",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Bir Çıkar Yolum Yok",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Sahibinin Sesi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Beyâban",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Sonumuz Yakın Mesafe",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Gördüklerime İnanmam Gerek",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Vesselam",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Tek Başınalığın Yolcusu",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Yakın ve Uzak",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Düşenin Dostu Olmaz",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Dessas",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Kötü İnsanları Tanıma Senesi",
+          "archived": false
+        }
+      ],
+      "title": "Kötü İnsanları Tanıma Senesi",
+      "year": 2008,
+      "type": "Albüm",
+      "note": "17 parçalık sürüm.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-032"
+    },
+    {
+      "title": "Kötü İnsanları Tanıma Senesi (Enstrumantal)",
+      "year": 2008,
+      "type": "Enstrümantal albüm",
+      "artist": "Sagopa Kajmer",
+      "note": "Yıl bağlı olduğu ana yayının yılıdır; enstrümantal sürümün bağımsız ilk yayın tarihi ayrıca doğrulanmalıdır. Kaynakta görülen yazım korundu.",
+      "status": "Parça listesi kaynaklı; sürüm tarihi kontrol edilmeli",
+      "url": "https://www.shazam.com/album/971153354/k%C3%B6t%C3%BC-i%CC%87nsanlar%C4%B1-tan%C4%B1ma-senesi-enstrumantal",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "İntro (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Ben Hüsrana Komşuyum (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Bir Kulaç Daha Atsam Karadayım (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Düşersem Yanarım (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "İki Tanık (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Gölge Haramileri (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Bir Çıkar Yolum Yok (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Sahibinin Sesi (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Beyaban (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Sonumuz Yakın Mesafe (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Gördüklerime İnanmam Gerek (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Vesselam (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Tek başınalığın Yolcusu (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Yakın Ve Uzak (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Düşenin Dostu Olmaz (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Dessas (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Kötü İnsanları Tanıma Senesi (Enstrumantal)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-033"
+    },
+    {
+      "year": 2008,
+      "title": "Pesimist EP 5 — Kör Cerrah",
+      "type": "İnternet EP",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.last.fm/music/Sagopa%2BKajmer/K%C3%B6r%2BCerrah%2B-%2BPesimist%2BEp%2B5",
+      "note": "27/28 Aralık tarih farkı var; yıl 2008. Parçalar Şarkı Koleksiyoncusu'nda tekrar yayımlandı.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Aşk Yok Artık",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Ateşten Gömlek",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Muamma",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Fırtına ve Şimşek",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Hep Taarruz Var",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-034"
+    },
+    {
+      "year": 2008,
+      "title": "Bu Şarkıyı Zevk İçin Yaptık",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Kolera",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "İnziva albümünde de var.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Bu Şarkıyı Zevk İçin Yaptık",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-035"
+    },
+    {
+      "year": 2008,
+      "title": "Compilation Vol.2",
+      "type": "Eski internet derlemesi",
+      "artist": "Sagopa Kajmer / konuk sanatçılar",
+      "url": "https://www.dostunsayfasi.com/geri-donusum-kutusu/33023-sagopa-kajmer-serisi-albumleri-featleri-59-album.html",
+      "note": "Kaynaklar 2007/2008 diyor; 2008 tarihli internet listeleri mevcut. İlk yayın tarihi kesinleşmedi; başlık yazımları değişebilir.",
+      "status": "Hayran derlemesi; tarih uyuşmazlığı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "3 Sefil Şair (Derin Darbe)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Yağmur (Nokia SuperSound Versiyonu; Domination)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Hade Hade Hooy (Dr. HipHop)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Doğar Yaşar Ölür (Dumanyak)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Filmin Karesi (Fuchs)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Trakonya (Kolera)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Kurşun Marşı (Ramiz)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Linguistiks (Supreme Intellekt; beat Ax The Architex)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Tımarlı Hastane (Sansürsüz)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Atamazsın Bir Kenara (Silahsız Kuvvet)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Evlat (Silahsız Kuvvet)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Ölüyorum Ölenlerin Yerine (Silahsız Kuvvet)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Sanal Alem Delikanlıları (Ceza)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Siktirin Gidin (Remix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "İngiliz Piçleri",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Pilimiz Bitmez (Dumanyak)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Duygu Sömürgesi (Kolera)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-036"
+    },
+    {
+      "year": 2008,
+      "title": "Compilation Vol.3",
+      "type": "Eski internet derlemesi",
+      "artist": "Sagopa Kajmer / konuk sanatçılar",
+      "url": "https://kraltema.blogspot.com/2008/?m=0",
+      "note": "2007/2008 tarih uyuşmazlığı var. EP 1–3 burada uzun birleşik dosya olarak geçer; bunlar üç yeni şarkı değildir.",
+      "status": "Hayran derlemesi; tarih uyuşmazlığı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Pesimist EP 1 (birleşik dosya)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Pesimist EP 2 (birleşik dosya)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Pesimist EP 3 (birleşik dosya)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Dumanyak Style",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Komada Martı (Kuvvetmira)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Üçlü Kombine (Cabbar)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Durdurulamaz Stil (Dumanyak)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Foseptik (Kolera)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Soğuk Küvet (Kolera & Bora / Mista Brown)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Kambur Kelimat (Toolz)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Dört Tarafım Yalan (Silahsız Kuvvet)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Sana Bana Kalmaz Bu Dünya (Silahsız Kuvvet)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Kukla (Turbo)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Yalanlar (IQ)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "İçimdeki Şeytanın Ensesindeyim",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Scratch Show (DJ Mic Check)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-037"
+    },
+    {
+      "url": "https://musicbrainz.org/release/2c443fbf-fb5b-435c-aa74-6dc5c5763f01",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Ateşten Gömlek",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Muamma",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Hep Taarruz Var",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Fırtına ve Şimşek",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Cümle Mühendisi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Aşk Yok Artık",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Şikayetname",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Kırık Çocuk (orijinal versiyon)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Dil Yaratmakta En Asil Silahları",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Marifetname",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Droppin'em",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Kırık Çocuk (Mickolodium mix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Drama Turnz",
+          "archived": false
+        }
+      ],
+      "title": "Şarkı Koleksiyoncusu",
+      "year": 2009,
+      "type": "Derleme",
+      "note": "Eski internet parçaları ve EP kayıtlarından derlendi. Bu yıl listedeki her şarkının ilk yayın yılı değildir.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-038"
+    },
+    {
+      "url": "https://www.shazam.com/album/970580704/saykodelik-ep",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Sürahi",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Kargaların Kargaşası",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Bilinmezlik (feat. Kolera)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Budala Kuş",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        }
+      ],
+      "title": "Saykodelik — dijital kısa sürüm",
+      "year": 2009,
+      "type": "EP sürümü",
+      "note": "Dijital kısa sürümde 4 parça. 6 parçalık internet sürümü ayrıca eklendi.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-039"
+    },
+    {
+      "year": 2009,
+      "title": "Saykodelik — tam internet sürümü",
+      "type": "EP",
+      "artist": "Sagopa Kajmer / Pesimist Orkestra",
+      "url": "https://www.main-board.com/254559/sagopa-kajmer-saykodelik-ep-2009",
+      "note": "2009 tarihli paylaşımın 6 parçalık sırası. Spotify 6 parçalık katalog sürümü: https://open.spotify.com/intl-de/album/6nCmiBx7zS25LoIAc2JYvK",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Epilepsintro",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Sürahi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Kargaların Kargaşası",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Bilinmezlik (feat. Kolera / Ephitaph Mix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Budala Kuş",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Kozmik Outro",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-040"
+    },
+    {
+      "year": 2009,
+      "title": "Beslenme Çantam",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Kolera",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "2021 Tek Edit ayrı sürüm.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Beslenme Çantam",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-041"
+    },
+    {
+      "year": 2009,
+      "title": "Hain",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Kolera",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "2021 Tek Edit ayrı sürüm.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Hain",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-042"
+    },
+    {
+      "year": 2010,
+      "title": "Bendeki Sen",
+      "type": "Ortak albüm",
+      "artist": "Sagopa Kajmer & Kolera",
+      "url": "https://getsongbpm.com/album/bendeki-sen/5xgRR",
+      "note": "16 parçalık ortak albüm; Onları da Anlıyorum solo olarak, son parça scratch olarak belirtiliyor.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Bu Böyledir",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Merhametine Dön",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Terk-i Diyar",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Mevsimler Gibisin",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Bir Dizi İz",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Zaman Alacak İntikamımı",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "İyi Bilirim",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Tadı Yok",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Ne Olur",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Bana Ninni Okumayın",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Sen Hiç Sevmeyi Bilmezsin",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "İçeriz Aynı Tastan",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Gidenler",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Ayılırsın ve Anlarsın",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Onları da Anlıyorum",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Scratch Diploma",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-043"
+    },
+    {
+      "year": 2010,
+      "title": "Ardından Bakarım",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "Saydam Odalar'dan önceki tekli.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Ardından Bakarım",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-044"
+    },
+    {
+      "url": "https://www.shazam.com/album/969243708/saydam-odalar",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "İnsafa Gel",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Galiba (Rap Versiyon)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Herkes",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Kaç Kaçabilirsen (feat. Kolera)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Çünkü Bir Tek Yol Var",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Bu işlerden Elini Çek (feat. Kolera)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Ardından Bakarım",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Galiba (Mickolodium Hip Hop Mix)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Galiba (80's Groove Mix)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Galiba (Flamenco Vocal Mix)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Galiba (Banjo Mix)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Galiba (Chilly Hip Hop Mix)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Galiba (Groove Mix)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Galiba (Rap Enstrumantal)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Galiba (Flamenco Enstrumantal)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Galiba (Chilloutro)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        }
+      ],
+      "title": "Saydam Odalar",
+      "year": 2011,
+      "type": "Albüm / miksler",
+      "note": "Kaynak sayfa 2015 dijital yeniden yayınını gösteriyor; ilk yayın 2011. 16 parçalık dijital sürüm, Galiba mikslerini ve enstrümantalleri içeriyor.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-045"
+    },
+    {
+      "year": 2012,
+      "title": "Istakoz",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "Kalp Hastası'ndan önceki tekli.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Istakoz",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-046"
+    },
+    {
+      "year": 2012,
+      "title": "40",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "TEK 2'de yeniden yer alır.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "40",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-047"
+    },
+    {
+      "year": 2012,
+      "title": "Ultimate",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Shi 360",
+      "url": "https://music.apple.com/us/artist/sagopa-kajmer/263633866",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Ultimate",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-048"
+    },
+    {
+      "title": "Kalp Hastası",
+      "url": "https://musicbrainz.org/release/1464a922-a4dc-4d89-abc8-c843ab48bc2d",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Kapılar Açılır... (intro)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Uzun Yollara Devam",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Benim Hayatım",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Yaptığın Hatalar Kadar Büyük Olmadın",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Bulun",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Istakoz",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Baytar",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Bugünün Elleri Boştu Ya Yarın",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Meftun",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "İster İstemez (ft. Kolera)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Kalp Hastası",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Sabah Fabrikam",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Düşünmek İçin Vaktin Var",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Durdur Beni",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Susmak İçin Yok Bahanem",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Karne",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Taşlama",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 18,
+          "title": "Dalgın",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 19,
+          "title": "Ve Kapılar Kapanır (outro)",
+          "archived": false
+        }
+      ],
+      "year": 2013,
+      "type": "Albüm",
+      "note": "Baytar daha önce Kafile'de yayımlanmıştır.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-049"
+    },
+    {
+      "title": "Kalp Hastası (Enstrumantal)",
+      "year": 2013,
+      "type": "Enstrümantal albüm",
+      "artist": "Sagopa Kajmer",
+      "note": "Yıl bağlı olduğu ana yayının yılıdır; enstrümantal sürümün bağımsız ilk yayın tarihi ayrıca doğrulanmalıdır. Kaynakta görülen yazım korundu.",
+      "status": "Parça listesi kaynaklı; sürüm tarihi kontrol edilmeli",
+      "url": "https://www.shazam.com/album/972465568/kalp-hastas%C4%B1-enstrumantal",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Ve Kapılar Açılır (Intro) [Enstrumantal]",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Uzun Yollara Devam (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Benim Hayatım (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Yaptığın Hatalar Kadar Büyük Olmadın (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Bulun (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Istakoz (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Baytar (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Bugünün Elleri Boştu Ya Yarın (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Meftun (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "İster İstemez (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Kalp Hastası (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Sabah Fabrikam (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Düşünmek İçin Vaktin Var (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Durdur Beni (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Susmak İçin Yok Bahanem (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Karne (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Taşlama (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 18,
+          "title": "Dalgın (Enstrumantal)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-050"
+    },
+    {
+      "year": 2013,
+      "title": "Sagoilla Remixes",
+      "type": "Remiks albümü",
+      "artist": "Illa Ills / Sagopa Kajmer",
+      "url": "https://www.qobuz.com/us-en/album/sagoilla-remixes-illa-ills/rqqjgi9ihsp4b",
+      "note": "Sagopa remikser; Illa Ills ana icracı. Vokalli Sagopa solo albümü değildir.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "3rd Rock (Sagopa Kajmer Remix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Body & Soul (Sagopa Kajmer Remix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Ghetto Blaster (Sagopa Kajmer Remix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Mr Boombap (Sagopa Kajmer Remix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Super High (Sagopa Kajmer Remix)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-051"
+    },
+    {
+      "year": 2013,
+      "title": "Düşünmek İçin Vaktin Var",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "Kalp Hastası'ndan önceki tekli.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Düşünmek İçin Vaktin Var",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-052"
+    },
+    {
+      "year": 2013,
+      "title": "Sagoilla Remixes Instrumentals",
+      "type": "Enstrümantal remix EP",
+      "artist": "Illa Ills / Sagopa Kajmer",
+      "url": "https://music.apple.com/us/album/sagoilla-remixes-instrumentals-ep/971839947",
+      "note": "16 Aralık 2013 platform tarihi. Sagopa'nın remix/prodüksiyon çalışması; vokal şarkı listesiyle karıştırılmamalı.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "3rd Rock (Instrumental)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Body & Soul (Instrumental)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Ghetto Blaster (Instrumental)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Mr Boombap (Instrumental)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Super High (Instrumental)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-053"
+    },
+    {
+      "url": "https://musicbrainz.org/release/b4d0ba38-c945-4e6e-965f-387a0f17a7dd",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Kanvas",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Zorla Güzellik",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Bir Çok Kez Öldüm",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Yutkunuyorum",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Ahmak Islatan",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "İçin",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Aylak Bakkal",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Baş",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Scratch Diploma 2",
+          "archived": false
+        }
+      ],
+      "title": "Pesimist EP 6 — Ahmak Islatan",
+      "year": 2014,
+      "type": "EP",
+      "note": "9 parçalık ilk sürüm. 2017 genişletilmiş sürümü aşağıda ayrı listelenmiştir.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-054"
+    },
+    {
+      "title": "Ahmak Islatan (Enstrumantal)",
+      "year": 2014,
+      "type": "Enstrümantal albüm",
+      "artist": "Sagopa Kajmer",
+      "note": "Yıl bağlı olduğu ana yayının yılıdır; enstrümantal sürümün bağımsız ilk yayın tarihi ayrıca doğrulanmalıdır. Kaynakta görülen yazım korundu.",
+      "status": "Parça listesi kaynaklı; sürüm tarihi kontrol edilmeli",
+      "url": "https://www.shazam.com/album/971153072/ahmak-islatan-enstrumantal",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Kanvas (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Zorla Güzellik (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Birçok Kez Öldüm (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Yutknuyorum (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Ahmak Islatan (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "İçin (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Aylak Bakkal (Enstrumantal)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Baş (Enstrumantal)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-055"
+    },
+    {
+      "year": 2014,
+      "title": "Abrakadabra",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Birol Giray (BeeGee)",
+      "url": "https://music.apple.com/us/artist/sagopa-kajmer/263633866",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Abrakadabra",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-056"
+    },
+    {
+      "year": 2014,
+      "title": "Artık Bitti",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Cem Adrian",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "Sagopa'nın katkısı scratch ve geri vokal; solo rap olarak sınıflandırılmamalı.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Artık Bitti",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-057"
+    },
+    {
+      "year": 2015,
+      "title": "Underground Years Vol.1 (1998–2001 Beat Album)",
+      "type": "Beat albümü",
+      "artist": "Sagopa Kajmer",
+      "url": "https://open.spotify.com/album/1MVcDp7MwkqfEnmoLuvRWm",
+      "note": "1998–2001 üretimleri; albüm yayını 23 Şubat 2015. Şarkı adı benzerliği eski vokalli kayıtla aynı sürüm olduğunu göstermez.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Molotof",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Akbabanın Ses Telleri",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Kafası Kırık Yumurta",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "A Tribute To Dragon Lee",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Marok Fırtınası Abdel",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Toplama Kampı",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Riva'nın Üzerindeki Gölgeler",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Ortadoğu'da Gün Batımı",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Komedi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Arapayma'nın Sonu",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Arpej",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Karartma Geceleri",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Mezarcının Mezarı",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Kayıp Kişi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Kendiyle Konuşan Mutsuz Adam",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Mordor'a Kesin Dönüş",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "MC Beatt",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-058"
+    },
+    {
+      "year": 2015,
+      "title": "Underground Years Vol.2 (1998–2001 Beat Album)",
+      "type": "Beat albümü",
+      "artist": "Sagopa Kajmer",
+      "url": "https://music.amazon.com/tracks/B00UGCCRG2",
+      "note": "1998–2001 üretimleri; albüm yayını 2015.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Otobüs",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Sabaha Kadar Uykusuz",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Albert Punçlayn",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Cesetler",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "A Tribute To Zeki Müren",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Asya Sentez V.I.P",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Eli Kalem Tutan MC",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Bulutlu ve Gri",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Adım Sago",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Melankolik Mi Dedin",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Hardkor Saz Semai",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "A Tribute To Barış Manço",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Dağın Görünmeyen Kısmı",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Kemançerto",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Pianosfer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Gengstamaafakka",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Karışık Akıl",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-059"
+    },
+    {
+      "year": 2015,
+      "title": "Bilmiyorum",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Bilmiyorum",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-060"
+    },
+    {
+      "year": 2015,
+      "title": "Naber",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Birol Giray",
+      "url": "https://music.apple.com/us/artist/sagopa-kajmer/263633866",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Naber",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-061"
+    },
+    {
+      "year": 2016,
+      "title": "Tecrübe",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & DJ Tarkan",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Tecrübe",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-062"
+    },
+    {
+      "url": "https://musicbrainz.org/release/6d9a64bc-2280-44c6-be17-d704bef85832",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "366.Gün - 2017 Edit",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Sertlik Kanında Var Hayatın - 2017 Edit",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Ahmak Islatan - 2017 Edit",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Söylenecek Çok Şey Var",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Oyun Parkı",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Bir Tek Bende Yok",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Bir Çok Kez Öldüm - 2017 Edit",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Yutkunuyorum - 2017 Edit",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Kanvas - 2017 Edit",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "İçin - 2017 Edit",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Zorla Güzellik - 2017 Edit",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Baş - 2017 Edit",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Aylak Bakkal - 2017 Edit",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Senden Hemen Sonrası",
+          "archived": false
+        }
+      ],
+      "title": "Ahmak Islatan",
+      "year": 2017,
+      "type": "Genişletilmiş albüm",
+      "note": "2014 EP'sinin yeniden düzenlenen parçaları ve ek kayıtlar. Scratch Diploma 2 bu sürümde yer almıyor.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-063"
+    },
+    {
+      "year": 2017,
+      "title": "366.Gün",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "Yılbaşı sınırında 2016/2017 tarihlemesi var. Dijital tekli yılı 2017; albüm editinden ayrı.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "366.Gün",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-064"
+    },
+    {
+      "year": 2017,
+      "title": "Ne Kaybederdin",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "2012 kayıt; 2017 yayın. Kayıt tarihi ilk yayın olarak kullanılmadı.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Ne Kaybederdin",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-065"
+    },
+    {
+      "year": 2017,
+      "title": "Sertlik Kanında Var Hayatın",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "2017 albüm editinden ayrı.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Sertlik Kanında Var Hayatın",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-066"
+    },
+    {
+      "year": 2017,
+      "title": "Sorun Var",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "31 Aralık 2017 klip; dijital katalog 2018 gösteriyor.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Sorun Var",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-067"
+    },
+    {
+      "year": 2018,
+      "title": "Sorun Var (No Joke Melankolik Mix)",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Sorun Var (No Joke Melankolik Mix)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-068"
+    },
+    {
+      "year": 2018,
+      "title": "Sessiz ve Yalnız",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "Avlu için kayıt.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Sessiz ve Yalnız",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-069"
+    },
+    {
+      "year": 2018,
+      "title": "Affetmem",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Bergen",
+      "url": "https://open.spotify.com/track/2W1BzwXo8ad4x4lnX9g1eT",
+      "note": "8 Haziran 2018.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Affetmem",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-070"
+    },
+    {
+      "year": 2018,
+      "title": "Serbest",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Serbest",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-071"
+    },
+    {
+      "year": 2018,
+      "title": "Oldu Olanlar",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "2022 remiksinden ayrı.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Oldu Olanlar",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-072"
+    },
+    {
+      "url": "https://www.shazam.com/album/1487809345/sarkastik-ep",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Toz Taneleri",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Neyse",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Vazgeçtim İnan",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Maalesef",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Sal Gitsin",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        }
+      ],
+      "title": "Sarkastik",
+      "year": 2019,
+      "type": "EP",
+      "note": "5 parçalık sürüm.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-073"
+    },
+    {
+      "year": 2019,
+      "title": "Yirmi Dört (Re-Vocal Version)",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "24'ün yeniden vokal kaydı.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Yirmi Dört (Re-Vocal Version)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-074"
+    },
+    {
+      "year": 2019,
+      "title": "Güvensiz İnsanlar",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Güvensiz İnsanlar",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-075"
+    },
+    {
+      "year": 2019,
+      "title": "Değişebilir Her An Adres (Groovypedia Live)",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & DJ Funky C",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "Canlı sürüm.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Değişebilir Her An Adres (Groovypedia Live)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-076"
+    },
+    {
+      "year": 2019,
+      "title": "Back2Back Scratch (Groovypedia Live)",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & DJ Funky C",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "Scratch performansı.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Back2Back Scratch (Groovypedia Live)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-077"
+    },
+    {
+      "year": 2019,
+      "title": "Avutsun Bahaneler",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Avutsun Bahaneler",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-078"
+    },
+    {
+      "url": "https://www.shazam.com/album/1526701561/yunus-ep",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Pankart",
+          "credit": "Sagopa Kajmer & Gökhan",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Zamanla",
+          "credit": "Sagopa Kajmer & Gökhan",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Küreksiz Kayıklar",
+          "credit": "Sagopa Kajmer & Gökhan",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Korsan",
+          "credit": "Sagopa Kajmer & Gökhan",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Saklama Bulurlar",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        }
+      ],
+      "title": "Yunus",
+      "year": 2020,
+      "type": "EP",
+      "note": "Go-Khan/Gökhan Özyavuz ile çalışma.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-079"
+    },
+    {
+      "year": 2020,
+      "title": "Territory and Land",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Shi 360",
+      "url": "https://open.spotify.com/track/4ZFFEPZDwZqeGNG5oibAhB",
+      "note": "7 Nisan 2020.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Territory and Land",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-080"
+    },
+    {
+      "year": 2020,
+      "title": "Siyah",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Patron",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Siyah",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-081"
+    },
+    {
+      "year": 2020,
+      "title": "Bu Sen Değilsin",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Faruk Sabancı",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Bu Sen Değilsin",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-082"
+    },
+    {
+      "url": "https://musicbrainz.org/release/f15bffbf-b1f2-43ed-82b8-b60ac809a148",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Süper 2li (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Beslenme Çantam (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Hain (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Kendim İçin (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Can Havli (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Şampiyonu Sıkar Yarış (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Herkesin Bir Suçu Var (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Bu Böyledir (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Merhametine Dön (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Monotonluk Maratonu (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Terk-i Diyar (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Bir Dizi İz (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Af Benim İşim Değil (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Ayılırsın Ve Anlarsın (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Emcee Testi (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Şahit Varsa Konuşsun (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Gidenler (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 18,
+          "title": "İçeriz Biz Aynı tastan (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 19,
+          "title": "Mevsimler Gibisin (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 20,
+          "title": "Ne Olur (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 21,
+          "title": "Sen Hiç Sevmeyi Bilmezsin (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 22,
+          "title": "Zaman Alacak İntikamımı (2021 Tek Edit)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 23,
+          "title": "Kırık Çocuk (Rare Mix)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 24,
+          "title": "Scratch Diploma Part.II",
+          "archived": false
+        }
+      ],
+      "title": "Tek",
+      "year": 2021,
+      "type": "Derleme / yeni sürümler",
+      "note": "2021 Tek Edit parçaları eski ortak kayıtların farklı sürümleridir; ilk yayınlarla aynı kayıt kabul edilmemelidir.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-083"
+    },
+    {
+      "year": 2021,
+      "title": "Onca Şeyin Ardından",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Onca Şeyin Ardından",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-084"
+    },
+    {
+      "year": 2021,
+      "title": "Saldırground",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/album/1565572990/sald%C4%B1rground-ep",
+      "note": "Bazı kataloglarda EP etiketi var; açılan parça listesinde tek kayıt.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Saldırground",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-085"
+    },
+    {
+      "year": 2021,
+      "title": "Uzak",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Ati242",
+      "url": "https://tr.wikipedia.org/wiki/Sagopa_Kajmer_%C5%9Fark%C4%B1lar%C4%B1_listesi",
+      "note": "Dipsomania albümünde.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Uzak",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-086"
+    },
+    {
+      "year": 2021,
+      "title": "Kim",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Kim",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-087"
+    },
+    {
+      "title": "Kağıt Kesikleri",
+      "url": "https://www.shazam.com/album/1625373836/ka%C4%9F%C4%B1t-kesikleri",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Dokunan Yanar",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Gecenin Donduğu Yerde",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Halen",
+          "credit": "Sagopa Kajmer & Dr.Fuchs",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Derin Nefes",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Bla Bla Bla Bla",
+          "credit": "Sagopa Kajmer & Şehinşah",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Aklımı Kaçırmadığım Bir Gün Daha",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Elbet",
+          "credit": "Sagopa Kajmer & Ramiz",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Zamanı Geldi Mi",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Ne Fayda",
+          "credit": "Sagopa Kajmer & Velet",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Kağıt Kesikleri",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Oldu Olanlar (Sago K 2022 Remix)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Oldu Olanlar (Sago K 2022 Remix Enstrumantal)",
+          "credit": "Sagopa Kajmer",
+          "archived": false
+        }
+      ],
+      "year": 2022,
+      "type": "Albüm",
+      "note": "Halen: Dr. Fuchs; Bla Bla Bla Bla: Şehinşah; Elbet: Ramiz; Ne Fayda: Velet.",
+      "status": "Kaynaklı",
+      "artist": "Sagopa Kajmer",
+      "catalog_id": "release-088"
+    },
+    {
+      "year": 2022,
+      "title": "Onlarla Konuşuyorum",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Defkhan",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Onlarla Konuşuyorum",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-089"
+    },
+    {
+      "year": 2023,
+      "title": "Geceler",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Mine Koşan",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Geceler",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-090"
+    },
+    {
+      "year": 2023,
+      "title": "İstesem de Söyleyemem",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "İstesem de Söyleyemem",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-091"
+    },
+    {
+      "year": 2024,
+      "title": "Eski Bıçaklar Yeni Kesikler",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Eski Bıçaklar Yeni Kesikler",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-092"
+    },
+    {
+      "year": 2024,
+      "title": "Bir Ateşe Attın Beni",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Kâmuran Akkor",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Bir Ateşe Attın Beni",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-093"
+    },
+    {
+      "year": 2025,
+      "title": "TEK 2",
+      "type": "Derleme / yeni sürümler",
+      "artist": "Sagopa Kajmer",
+      "url": "https://open.spotify.com/intl-tr/album/1VOe7Ud4kTMuJcfcxKMf4c",
+      "note": "12 Aralık 2025. Eski kayıtların yeniden yayımlanan / solo düzenlenen sürümleri; bütün başlıklar 2025'te ilk kez yazılmış şarkılar değildir.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Kambur Kelimat",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Bir Var Bir Yok (feat. Critical)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Nedense (feat. Dr. Fuchs)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Gam Tozu ve Dünyanın Ninnisi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Onları da Anlıyorum",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "İyi Bilirim",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Bana Ninni Okumayın",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Bu Şarkıyı Zevk İçin Yaptık",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Trakonya",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Kır Kalbini Ver Elime",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Duygu Sömürgesi",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Kibir Kibriti",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Süper Sperm (Temizce Versiyon)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Bling Bling Hip Hop",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Scratch Diploma",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "40",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Tadı Yok",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 18,
+          "title": "Ne Bilirsin",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 19,
+          "title": "Bağlı Hayatım Pamuk İpliğine",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 20,
+          "title": "Malum Tahrip İzleri",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 21,
+          "title": "Yarım Gönülle Bir Öpüş",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 22,
+          "title": "Süper Sperm (Kirli Versiyon)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 23,
+          "title": "Scratch Diploma Part 2 (Beatstrumental)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-094"
+    },
+    {
+      "year": 2025,
+      "title": "Sırtlan",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Sırtlan",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-095"
+    },
+    {
+      "year": 2025,
+      "title": "Sussan da Olur",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Nun Sultan",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Sussan da Olur",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-096"
+    },
+    {
+      "year": 2026,
+      "title": "Peki Madem",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Ramiz",
+      "url": "https://www.shazam.com/artist/sagopa-kajmer/263633866/releases",
+      "note": "Ocak 2026.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Peki Madem",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-097"
+    },
+    {
+      "year": 2026,
+      "title": "Tahtadan Sal",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Nun Sultan",
+      "url": "https://open.spotify.com/album/0OhJGdVkk009uOaDiDze5P",
+      "note": "17 Ağustos 2026.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Tahtadan Sal",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-098"
+    },
+    {
+      "year": 2026,
+      "title": "Bir Şansım Daha Olsa",
+      "type": "Tekli / ortak kayıt",
+      "artist": "Sagopa Kajmer & Allame",
+      "url": "https://www.sonymusic.com.tr/haberler/allame-ve-sagopa-kajmerden-yilin-en-guclu-rap-bulusmalarindan-biri-bir-sansim-daha-olsa/",
+      "note": "28 Ağustos 2026.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Bir Şansım Daha Olsa",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-099"
+    },
+    {
+      "year": 2026,
+      "title": "Sor Yıllara",
+      "type": "Tekli",
+      "artist": "Sagopa Kajmer",
+      "url": "https://music.apple.com/us/artist/sagopa-kajmer/263633866",
+      "note": "23 Eylül 2026.",
+      "status": "Kaynaklı",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Sor Yıllara",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-100"
+    },
+    {
+      "year": null,
+      "title": "Eski düetler — ilk yayın yılı doğrulanacak",
+      "type": "Araştırma listesi",
+      "artist": "Sagopa Kajmer / Silahsız Kuvvet",
+      "url": "https://sagopadiskografi.tr.gg/Diskografi.htm",
+      "note": "Bu isimler eski hayran diskografisinde var. İlk yıl, özgün başlık, albüm, kayıt kimliği ve ilgili sanatçı kredileri doğrulanmadı. Başka albümlerde bulunan bazı başlıklar farklı sürüm veya mükerrer olabilir. Kesin katalog toplamına eklenmemeli.",
+      "status": "Doğrulanacak",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "İçimdeki Şeytanın Ensesindeyim (MT & Kasırga)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Kambur Kelimat (Toolz ile eski ortak sürüm)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "3 Sefil Şair (Derin Darbe)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Filmin Son Karesi (Dr. Fuchs)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Hade Hade Hooy (Dr. HipHop)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Gerçekler (Sirhot)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "Linguistiks (Supreme Hebrew Intelekt)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Yağmur (The Domination)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Kuduz Rap (IQ)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Durma Hadi Sek Go (IQ)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Yalanlar (IQ)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Tek Kanatlı Kuş (MT)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Karanlık Manzaralar",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Çocuk muyum? (Sahtiyan / Mista Brown prodüksiyonu)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Piston (Kolera, Ceza & Mista Brown)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Cihana Hitabe Remix (Fuat, Ceza & Sahtiyan)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 17,
+          "title": "Amerikancıklara Selam (Fuat, Ceza & Sahtiyan)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 18,
+          "title": "İnkar Boşuna Bak Aynaya (Sözlü Taarruz)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 19,
+          "title": "Sana Bana Kalmaz Bu Dünya (Masta Kara)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 20,
+          "title": "Kukla (Turbo)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 21,
+          "title": "Rap Hediye (Sirhot)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 22,
+          "title": "Bir Damla Su (Sözlü Taarruz)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 23,
+          "title": "Subjectif Perspektif (Sirhot)",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-101"
+    },
+    {
+      "year": null,
+      "title": "İlk dönem albümsüz kayıt adayları",
+      "type": "Araştırma listesi",
+      "artist": "Silahsız Kuvvet",
+      "url": "https://boraakkas.catsboard.com/t120-sagopa-kajmeryunus-ozyavuz",
+      "note": "Hayran kaynağında çoğu 1998–1999 olarak verilmiş; özgün yayın kanıtı olmadığı için yıl alanı boş bırakıldı. Kaybolmuş/yayımlanmamış kayıt iddiaları ile yayımlanmış şarkılar ayrıştırılmalı.",
+      "status": "Doğrulanacak",
+      "tracks": [
+        {
+          "disc": 1,
+          "n": 1,
+          "title": "Booyaka!",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 2,
+          "title": "Selamlarım Hepinize",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 3,
+          "title": "Kuvvetten Size",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 4,
+          "title": "Ölüyorum Ölenlerin Yerine",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 5,
+          "title": "Hadi Sar Yak İç Lanet",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 6,
+          "title": "Dergahın Kapıları (Bab-ı Dergah)",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 7,
+          "title": "İçimdeki Düşman",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 8,
+          "title": "Kuvvet Ritimlerde",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 9,
+          "title": "Fahişe",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 10,
+          "title": "Vatan Mix",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 11,
+          "title": "Atamazsın Bir Kenara",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 12,
+          "title": "Bomboş Her Şey",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 13,
+          "title": "Gerilim 99",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 14,
+          "title": "Gerilime Hoşgeldin",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 15,
+          "title": "Evlat",
+          "archived": false
+        },
+        {
+          "disc": 1,
+          "n": 16,
+          "title": "Düşmanım İnsan",
+          "archived": false
+        }
+      ],
+      "catalog_id": "release-102"
+    }
+  ]
+}
